@@ -4,8 +4,8 @@
 
 💻 **Frontend Developer** passionate about building responsive and user-friendly web applications.
 
-🚀 Skilled in **HTML, CSS, JavaScript, React**
-🎯 Currently focusing on **advanced React, performance optimization, and system design**
+🚀 Skilled in **HTML, CSS, JavaScript, React
+🎯 Currently focusing on **advanced React, performance optimization, and system design
 🌱 Always learning and building real-world projects
 
 ---
