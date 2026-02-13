@@ -1,6 +1,5 @@
-![githubgif](https://github.com/user-attachments/assets/2b2c82fe-1ac3-4934-b239-f55c95b30f84)
-
 # Hey there! 👋 I'm Pankaj
+
 
 💻 **Frontend Developer** passionate about building responsive and user-friendly web applications.
 
@@ -8,6 +7,7 @@
 🎯 Currently focusing on **advanced React, performance optimization, and system design
 🌱 Always learning and building real-world projects
 
+![githubgif](https://github.com/user-attachments/assets/2b2c82fe-1ac3-4934-b239-f55c95b30f84)
 ---
 
 ## 🛠️ Tech Stack
