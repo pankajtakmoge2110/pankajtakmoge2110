@@ -1,7 +1,7 @@
-# Hey there! 👋 I'm Pankaj
+#  Hey there! 👋 I'm Pankaj
 
 
-💻 **Frontend Developer** passionate about building responsive and user-friendly web applications.
+💻 Frontend Developer passionate about building responsive and user-friendly web applications.
 
 🚀 Skilled in **HTML, CSS, JavaScript, React
 🎯 Currently focusing on **advanced React, performance optimization, and system design
