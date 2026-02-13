@@ -34,6 +34,15 @@ I believe in **consistency, discipline, and continuous improvement**. Every day,
 🚀 *Build. Learn. Improve. Repeat.*
 
 
+
+
+
+ ## 🚀 Languages and Tools:
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+</p>
+
 ## 📫 Connect With Me
 <p align="left">
 <a href="https://github.com/pankajtakmoge2110" target="_blank">
@@ -52,15 +61,6 @@ I believe in **consistency, discipline, and continuous improvement**. Every day,
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
 </a>
 </p>
-
-
-
- ## 🚀 Languages and Tools:
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
-</p>
-
 
 
 <!--
