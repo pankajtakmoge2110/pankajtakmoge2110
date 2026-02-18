@@ -1,4 +1,4 @@
-#  Hey there! 👋 I'm Pankaj
+#  Hey there! 👋 I'm Pankaj Takmoge
 
 
 💻 Frontend Developer I build performant, scalable React applications with clean UI and optimized rendering.
