@@ -8,7 +8,8 @@
 
 🎯 Currently focusing on **advanced React, performance optimization, and system design
 
-🌱 Always learning and building real-world projects  
+🌱 Always learning and building real-world projects 
+
 
 ![githubgif](https://github.com/user-attachments/assets/2b2c82fe-1ac3-4934-b239-f55c95b30f84)
 
@@ -32,11 +33,6 @@ I have actively participated in **coding challenges and competitions**, sharpeni
 Currently, I am seeking an opportunity to begin my professional journey as a developer, where I can contribute, grow rapidly, and collaborate with talented teams. My long-term goal is to secure a role at a **top product-based company** and evolve into a developer who builds impactful technology at scale.
 
 I believe in **consistency, discipline, and continuous improvement**. Every day, I work toward becoming better than I was yesterday — as a developer and as a problem solver.
-
-🚀 *Build. Learn. Improve. Repeat.*
-
-
-
 
 
  ## 🚀 Languages and Tools:
