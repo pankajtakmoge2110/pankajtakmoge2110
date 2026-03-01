@@ -2,9 +2,8 @@
 
 💻 Frontend Developer I build performant, scalable React applications with clean UI and optimized rendering.
 
-
 🚀 Skilled in **HTML, CSS, JavaScript, React      
-      
+         
 🎯 Currently focusing on **advanced React, performance optimization, and system design
 
 🌱 Always learning and building real-world projects 
