@@ -32,7 +32,6 @@ Currently, I am seeking an opportunity to begin my professional journey as a dev
 
 I believe in **consistency, discipline, and continuous improvement**. Every day, I work toward becoming better than I was yesterday — as a developer and as a problem solver.
 
-
  ## 🚀 Languages and Tools:
 
 <p align="left">
