@@ -11,16 +11,6 @@
 
 ![githubgif](https://github.com/user-attachments/assets/2b2c82fe-1ac3-4934-b239-f55c95b30f84)
 
-
-## 🛠️ Tech Stack
-
-* HTML5
-* CSS3
-* JavaScript
-* React
-* Git & GitHub
-* REST APIs
-
 🌟 **About Me** 🌟
 
 Hello! I’m **Pankaj Takmoge**, a passionate **Frontend Developer** with a strong foundation in engineering and a deep enthusiasm for building modern, user-focused web applications. Currently in my **final year of Mechanical Engineering**, I made a strategic transition into tech after discovering my interest in creating interactive digital experiences and solving real-world problems through code.
