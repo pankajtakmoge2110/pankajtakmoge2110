@@ -64,6 +64,9 @@ I believe in **consistency, discipline, and continuous improvement**. Every day,
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHubPages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
+## Github Contribution streak card
+![GitHub Streak](https://streak-stats.demolab.com?user=pankajtakmoge2110&theme=tokyonight&hide_border=true)
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pankajtakmoge2110&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff)
 
 ## 📫 Connect With Me
